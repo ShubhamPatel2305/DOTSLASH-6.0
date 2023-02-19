@@ -1,0 +1,13 @@
+body{
+    background-color: grey;
+}
+.container{
+    background-color: red;
+}
+.colour{
+    background-color: #f23e30;
+    color: #f23e30;
+}
+.button-colour{
+    color: white;
+}
