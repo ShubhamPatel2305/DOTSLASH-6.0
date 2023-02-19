@@ -56,7 +56,7 @@ function App() {
       )}
 
       <div className="App">
-        <h1 style={{ color: "white" }}>DOTSLASH 6.0</h1>
+        <h1 style={{ color: "white" }}>PROOF OF EVIDENCE</h1>
         <div class="bg"></div>
         <div class="bg bg2"></div>
         <div class="bg bg3"></div>
